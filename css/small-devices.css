@@ -21,13 +21,14 @@ html, body {
     background-color: var(--color03);
     width: 100vw;
     height: 100vh;
-    min-height: 600px;
 }
 
 main {
     position: relative;
     width: 100vw;
     height: 100vh;
+    max-height: 750px;
+    min-height: 700px;
 }
 
 section#login {
