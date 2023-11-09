@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-body {
+html, body {
     background-image: linear-gradient(to top, var(--color01), var(--color04));
 }
 
